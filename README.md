@@ -11,8 +11,11 @@ To write a program to find the LU Decomposition of a matrix.
 (i)
 
 1. Import the numpy module to use the built-in functions  scipy.linalg for calculation.
+
 2. Prepare the lists from given matrix and assign in np.array()
+
 3. Using the np.array(eval(input()))
+
 4. End the program.
 
 (ii)
@@ -20,9 +23,13 @@ To write a program to find the LU Decomposition of a matrix.
  1.Import the numpy module to use the built-in functions  scipy.linalg for calculation.
  
  2.Prepare the lists from the iven matrix and assign in np.array()
- 3.import lu_factor and lu_solve from cipy.linalg        
+
+
+ 3.import lu_factor and lu_solve from scipy.linalg      
+
  4.using lu,piv to find lu_factor and lu_solve to solve the matrix.
- 5.End the program
+
+ 5.End the program.
 
   
 
