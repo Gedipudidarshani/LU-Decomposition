@@ -66,8 +66,8 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](output1.png)
-![solution](output2.png)
+![lu decomposition](output3.png)
+![solution](output4.png)
 
 
 ## Result:
